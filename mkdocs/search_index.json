@@ -39,6 +39,11 @@
             "location": "/index2/#project-layout", 
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Project layout"
+        }, 
+        {
+            "location": "/OCP/simplepython/", 
+            "text": "This is a simple python script:\n\n\nfor x in range(10):\n    print x", 
+            "title": "Simplepython"
         }
     ]
 }
