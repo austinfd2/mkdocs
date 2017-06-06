@@ -41,6 +41,11 @@
             "title": "Project layout"
         }, 
         {
+            "location": "/simplepython/", 
+            "text": "This is a simple python script:\n\n\nfor x in range(10):\n    print x", 
+            "title": "Simplepython"
+        }, 
+        {
             "location": "/OCP/simplepython/", 
             "text": "This is a simple python script:\n\n\nfor x in range(10):\n    print x", 
             "title": "Simplepython"
